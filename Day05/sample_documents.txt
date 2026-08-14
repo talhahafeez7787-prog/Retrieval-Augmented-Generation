@@ -1,0 +1,15 @@
+Python is a popular programming language widely used for AI and data science projects.
+AI systems increasingly rely on large language models to understand and generate text.
+RAG stands for Retrieval-Augmented Generation and combines search with text generation.
+Embeddings convert text into numerical vectors that capture semantic meaning.
+Documents can be split into smaller chunks before being converted into embeddings.
+A vector database stores embeddings and allows fast similarity search over documents.
+APIs allow different software applications to communicate with each other over a network.
+Python libraries such as requests make it easy to call APIs from application code.
+
+Many RAG pipelines use a vector database to retrieve relevant documents for a query.
+Building an AI application often involves combining embeddings, APIs, and documents.
+Developers use Python to preprocess documents before generating embeddings for RAG.
+Good API design makes it easier to integrate AI models into production systems.
+Vector databases like Chroma and Pinecone are commonly used in RAG applications.
+Embeddings from different documents can be compared using cosine similarity.

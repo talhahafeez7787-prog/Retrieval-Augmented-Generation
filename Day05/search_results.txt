@@ -1,0 +1,52 @@
+============================================================
+Search performed: 2026-08-14 22:43:30
+Source file      : sample_documents.txt
+Keyword          : rag
+Matching lines   : 4
+Total occurrences: 4
+------------------------------------------------------------
+Line 3 (1 match(es)): RAG stands for Retrieval-Augmented Generation and combines search with text generation.
+Line 10 (1 match(es)): Many RAG pipelines use a vector database to retrieve relevant documents for a query.
+Line 12 (1 match(es)): Developers use Python to preprocess documents before generating embeddings for RAG.
+Line 14 (1 match(es)): Vector databases like Chroma and Pinecone are commonly used in RAG applications.
+============================================================
+
+============================================================
+Search performed: 2026-08-14 22:44:21
+Source file      : sample_documents.txt
+Keyword          : ai
+Matching lines   : 4
+Total occurrences: 4
+------------------------------------------------------------
+Line 1 (1 match(es)): Python is a popular programming language widely used for AI and data science projects.
+Line 2 (1 match(es)): AI systems increasingly rely on large language models to understand and generate text.
+Line 11 (1 match(es)): Building an AI application often involves combining embeddings, APIs, and documents.
+Line 13 (1 match(es)): Good API design makes it easier to integrate AI models into production systems.
+============================================================
+
+============================================================
+Search performed: 2026-08-14 22:44:44
+Source file      : sample_documents.txt
+Keyword          : AI
+Matching lines   : 4
+Total occurrences: 4
+------------------------------------------------------------
+Line 1 (1 match(es)): Python is a popular programming language widely used for AI and data science projects.
+Line 2 (1 match(es)): AI systems increasingly rely on large language models to understand and generate text.
+Line 11 (1 match(es)): Building an AI application often involves combining embeddings, APIs, and documents.
+Line 13 (1 match(es)): Good API design makes it easier to integrate AI models into production systems.
+============================================================
+
+============================================================
+Search performed : 2026-08-14 22:46:06
+Source file      : sample_documents.txt
+Keyword          : ai
+Matching lines   : 4
+Total occurrences: 4
+------------------------------------------------------------
+Line 1 (1 match(es)): Python is a popular programming language widely used for AI and data science projects.
+Line 2 (1 match(es)): AI systems increasingly rely on large language models to understand and generate text.
+Line 11 (1 match(es)): Building an AI application often involves combining embeddings, APIs, and documents.
+Line 13 (1 match(es)): Good API design makes it easier to integrate AI models into production systems.
+============================================================
+
