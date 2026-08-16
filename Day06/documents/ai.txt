@@ -1,0 +1,6 @@
+Artificial intelligence allows computers to perform
+intelligent tasks.
+Machine learning is a field inside artificial
+intelligence.
+Large language models process and generate text.
+Python provides many tools for AI development.
