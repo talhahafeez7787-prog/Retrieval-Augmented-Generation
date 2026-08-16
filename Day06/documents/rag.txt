@@ -1,0 +1,4 @@
+Retrieval-Augmented Generation is commonly called RAG.
+RAG retrieves information before generating an answer.
+Python can be used to build RAG pipelines.
+A RAG system can answer from private documents.

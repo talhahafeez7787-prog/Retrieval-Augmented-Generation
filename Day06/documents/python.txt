@@ -1,0 +1,4 @@
+Python is a beginner-friendly programming language.
+Python is widely used in artificial intelligence.
+Functions make Python code reusable.
+Python can process text files and APIs.
