@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "topic": "technology",
+    "text": "Artificial intelligence is transforming how software is built and deployed."
+  },
+  {
+    "id": 2,
+    "topic": "technology",
+    "text": "Cloud computing lets companies scale their infrastructure on demand."
+  },
+  {
+    "id": 3,
+    "topic": "technology",
+    "text": "Open source software encourages collaboration across the developer community."
+  },
+  {
+    "id": 4,
+    "topic": "nature",
+    "text": "The Amazon rainforest is home to an extraordinary diversity of species."
+  },
+  {
+    "id": 5,
+    "topic": "nature",
+    "text": "Migratory birds travel thousands of miles between breeding and wintering grounds."
+  },
+  {
+    "id": 6,
+    "topic": "nature",
+    "text": "Coral reefs provide shelter and food for countless marine organisms."
+  },
+  {
+    "id": 7,
+    "topic": "sports",
+    "text": "The marathon runner paced herself carefully to conserve energy for the final stretch."
+  },
+  {
+    "id": 8,
+    "topic": "sports",
+    "text": "A well-executed pass can completely change the momentum of a soccer match."
+  },
+  {
+    "id": 9,
+    "topic": "sports",
+    "text": "Consistent training and recovery are key to avoiding injuries in competitive swimming."
+  }
+]
