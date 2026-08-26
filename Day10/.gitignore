@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache/build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# Sentence-transformers / Hugging Face model cache (if downloaded locally)
+.cache/
+*.cache/
+
+# Editor/OS junk
+.vscode/
+.idea/
+.DS_Store
+
+# Environment variables
+.env

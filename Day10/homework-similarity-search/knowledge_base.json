@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "text": "Undergraduate students must maintain a minimum CGPA of 2.0 each semester to remain in good academic standing. Falling below this threshold for two consecutive semesters results in academic probation.",
+    "source": "Academic Policy Handbook, Section 4.1"
+  },
+  {
+    "id": 2,
+    "text": "Students are allowed a maximum of three unexcused absences per course per semester. A fourth unexcused absence may result in a grade penalty or course withdrawal at the instructor's discretion.",
+    "source": "Student Attendance Policy, Section 2.3"
+  },
+  {
+    "id": 3,
+    "text": "Any form of plagiarism, including submitting AI-generated text as one's own work without disclosure, is a violation of the Academic Integrity Code and may result in course failure or expulsion.",
+    "source": "Academic Integrity Code, Article 5"
+  },
+  {
+    "id": 4,
+    "text": "Tuition fees for each semester are due within 15 days of the start of classes. Late payments incur a 5% surcharge and may lead to a hold on course registration.",
+    "source": "Finance Office Guidelines, Section 1.2"
+  },
+  {
+    "id": 5,
+    "text": "Students living in university dormitories must observe quiet hours between 10 PM and 7 AM on weekdays. Violations reported three times in a semester may lead to relocation or eviction from housing.",
+    "source": "Residence Hall Handbook, Section 3.4"
+  },
+  {
+    "id": 6,
+    "text": "Course withdrawal is permitted up to the end of the eighth week of the semester. Withdrawals after this deadline require approval from the Dean of Students and are recorded as a 'W' on the transcript.",
+    "source": "Registrar Policy Manual, Section 6.1"
+  },
+  {
+    "id": 7,
+    "text": "Students with documented disabilities may request reasonable accommodations, such as extended exam time or alternative formats, by registering with the Office of Disability Services at the start of each semester.",
+    "source": "Disability Services Policy, Section 2.1"
+  },
+  {
+    "id": 8,
+    "text": "Use of mobile phones during examinations is strictly prohibited. Any student found with a phone during an exam will have their exam invalidated and may face disciplinary review.",
+    "source": "Examination Regulations, Section 7.2"
+  },
+  {
+    "id": 9,
+    "text": "Graduate students must complete a thesis proposal defense within the first three semesters of enrollment. Failure to do so may result in a change of academic status to non-thesis track.",
+    "source": "Graduate Studies Handbook, Section 3.2"
+  },
+  {
+    "id": 10,
+    "text": "Parking permits are mandatory for all vehicles on campus and must be renewed annually. Vehicles without a valid permit are subject to fines starting at $50 per violation.",
+    "source": "Campus Parking Policy, Section 1.1"
+  }
+]
