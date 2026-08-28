@@ -1,0 +1,15 @@
+# ChromaDB persistent storage (rebuilt automatically from knowledge_base.json)
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

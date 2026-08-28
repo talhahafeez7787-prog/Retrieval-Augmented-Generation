@@ -1,0 +1,74 @@
+[
+  {
+    "id": "kb001",
+    "text": "Embeddings are numerical vector representations of text that capture semantic meaning, allowing a computer to measure how similar two pieces of text are by comparing their vectors.",
+    "source": "Week1_Embeddings_Intro.pdf",
+    "category": "LLM Fundamentals"
+  },
+  {
+    "id": "kb002",
+    "text": "A vector database stores embeddings alongside their original content and metadata, and is optimized for fast similarity search across millions of vectors using indexes like HNSW.",
+    "source": "Week4_VectorDB_Overview.md",
+    "category": "Vector Search & Embeddings"
+  },
+  {
+    "id": "kb003",
+    "text": "Cosine similarity measures the angle between two vectors rather than their magnitude, making it a popular distance metric for comparing text embeddings regardless of document length.",
+    "source": "Week4_Distance_Metrics.md",
+    "category": "Vector Search & Embeddings"
+  },
+  {
+    "id": "kb004",
+    "text": "Retrieval-Augmented Generation, or RAG, combines a retrieval step over a knowledge base with a generative language model, grounding the model's answers in retrieved documents instead of relying purely on memorized parameters.",
+    "source": "Week3_RAG_Architecture.pdf",
+    "category": "LLM Fundamentals"
+  },
+  {
+    "id": "kb005",
+    "text": "Chunking splits long documents into smaller passages before embedding them, since embedding models have limited context windows and smaller chunks improve retrieval precision.",
+    "source": "Week3_Chunking_Strategies.md",
+    "category": "Vector Search & Embeddings"
+  },
+  {
+    "id": "kb006",
+    "text": "Prompt engineering is the practice of carefully designing input instructions to a language model to reliably produce the desired output format, tone, or reasoning process.",
+    "source": "Week2_Prompt_Engineering.pdf",
+    "category": "LLM Fundamentals"
+  },
+  {
+    "id": "kb007",
+    "text": "Fine-tuning adapts a pretrained language model to a specific task or domain by continuing training on a smaller, labeled dataset, updating some or all of the model's weights.",
+    "source": "Week2_Finetuning_Basics.pdf",
+    "category": "LLM Fundamentals"
+  },
+  {
+    "id": "kb008",
+    "text": "Git version control lets teams track changes to code over time, branch to work on features independently, and merge changes back together while preserving a full history of commits.",
+    "source": "Week1_Git_Basics.md",
+    "category": "Software Engineering"
+  },
+  {
+    "id": "kb009",
+    "text": "Writing automated unit tests with a framework like pytest helps catch bugs early by verifying that individual functions behave correctly whenever the codebase changes.",
+    "source": "Week1_Python_Testing.md",
+    "category": "Software Engineering"
+  },
+  {
+    "id": "kb010",
+    "text": "Docker packages an application together with its dependencies into a portable container image, ensuring the software runs the same way across different machines and environments.",
+    "source": "Week1_Docker_Intro.pdf",
+    "category": "Software Engineering"
+  },
+  {
+    "id": "kb011",
+    "text": "Evaluating a language model's output quality often involves a mix of automated metrics, such as BLEU or ROUGE, and human review, since automated scores do not always capture factual correctness or helpfulness.",
+    "source": "Week3_LLM_Evaluation.pdf",
+    "category": "LLM Fundamentals"
+  },
+  {
+    "id": "kb012",
+    "text": "The transformer architecture relies on a self-attention mechanism that lets a model weigh the relevance of every other token in a sequence when producing a representation for each token.",
+    "source": "Week2_Transformer_Architecture.pdf",
+    "category": "LLM Fundamentals"
+  }
+]
